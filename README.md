@@ -1,4 +1,4 @@
-<H1>🌾 KISAN-SATHI - AI for Smallholder Farmers</H1>
+<H1>🌾 KISAN-SATHI - AI for  Farmers</H1>
 KISAN-SATHI is an AI-powered farming assistant designed to support smallholder farmers with personalized crop recommendations, real-time weather updates, market price insights, and an SMS interface—accessible even without internet connectivity.
 
 <h1>🚀 Features</h1>
@@ -44,3 +44,11 @@ Crop recommendations based on soil, season, and location.Weather forecasts with 
 | **Market Prices**     | Real-time price trends from major APMC markets.  |
 | **SMS Interface**     | Chat-like system for sending/receiving info.     |
 | **Latest Advisories** | Timely farming tips, alerts, and market updates. |
+
+
+![Screenshot 2025-07-07 122104](https://github.com/user-attachments/assets/c6cb6e27-9842-4764-ad71-dce82fa1f9de)
+![Screenshot 2025-07-07 122127](https://github.com/user-attachments/assets/f0412df7-8924-4aa9-9635-11be9282fd25)
+![Screenshot 2025-07-07 122444](https://github.com/user-attachments/assets/6ec52077-b165-4408-bb67-bfb1df042043)
+
+
+
